@@ -1,0 +1,8 @@
+anthropic
+python-dotenv
+tavily-python
+Pillow
+rich
+aiohttp
+openai
+litellm

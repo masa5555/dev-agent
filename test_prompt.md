@@ -1,0 +1,1 @@
+Create TODO App using React and TypeScript and Vite and TailwindCSS.\nThe app should have the following features:\n\n- Add a new todo\n- Remove a todo\n NOTE:\n- project directory name include random animal name in suffix for unique name\n- The data should be stored in local storage.\n
